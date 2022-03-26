@@ -2,3 +2,5 @@
 .idea
 # Target files
 target
+# Mac files
+.DS_Store
